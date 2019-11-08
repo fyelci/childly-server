@@ -21,3 +21,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+dist
+npm-debug.log
+test-results/
+types/graphql.d.ts
+types/unsplash.d.ts
