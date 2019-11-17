@@ -8,7 +8,7 @@ jobs:
         environment:
           POSTGRES_PASSWORD: testpassword
           POSTGRES_USER: testuser
-          POSTGRES_DB: childly-postgres
+          POSTGRES_DB: childly
     steps:
       - checkout
       - restore_cache:
